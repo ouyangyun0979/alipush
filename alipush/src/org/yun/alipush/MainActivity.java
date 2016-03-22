@@ -10,7 +10,7 @@ public class MainActivity extends ActionBarActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		 
+		System.out.println("-------------------------开始我的git和yunpush");
 		setContentView(R.layout.activity_main);
 	}
 
